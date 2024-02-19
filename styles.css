@@ -10,6 +10,7 @@ main {
     Chrome 26+, Opera 12+, Safari 7+ */
     background-repeat: no-repeat;
     height: 100vh;
+    display: flex;
     flex-direction: column;
     align-items: center;
     font-family: Oxygen, sans-serif;
